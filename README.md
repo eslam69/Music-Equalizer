@@ -1,6 +1,6 @@
 # Music-Equalizer
 
-### please install all the dependencies from [dep.txt](dep.txt) file 
+### Please install all the dependencies from [dep.txt](dep.txt) file 
 ## Description
 **Music Equalizer with media player and visualizer:**
 * Adjust 10 equalizer bands gains(up to 22KHz) . 
@@ -12,4 +12,4 @@
 
 ![window 1](screenshot1.png)
 
-![window 1](icons/equalizer2.png)
+![window 1](icons/Equalizer2.png)
